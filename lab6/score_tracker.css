@@ -1,0 +1,30 @@
+QWidget#title_screen{
+    background-color: pink;
+}
+
+QWidget#score_screen{
+    background-color: pink;
+}
+
+QLabel{
+    font-size: 22px;
+}
+
+QPushButton{
+    border: 2px solid #000000;
+    border-radius: 3px;
+    background-color: white;
+    font-size: 16px;
+    height: 100%;
+}
+
+QPushButton#back_button{
+    border: 2px solid #000000;
+    height: 15%;
+}
+
+QLineEdit{
+    background: white;
+    border: 0px;
+    font-size: 15px;
+}
